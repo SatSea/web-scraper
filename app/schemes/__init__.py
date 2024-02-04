@@ -1,0 +1,1 @@
+from .normalized_product import NormalizedProduct
